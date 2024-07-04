@@ -47,4 +47,4 @@ newman run <your-postman-collection-file>.json -r htmlextra
 
 Upon executing the tests, you will receive a detailed report summarizing the test results. Below is an example of a report generated from the test execution:
 
-![Execution Report](https://github.com/TechCipher13/web-automation-case-studies/blob/main/HTMLReport.png)
+![Execution Report](https://github.com/TechCipher13/api-automation-case-studies/blob/main/report.png)
